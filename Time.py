@@ -12,3 +12,33 @@ while seconds:
 
 print("Time's up!")
 sdadasd
+sdasdasds
+sdasd
+sd
+sd
+sa
+da
+sda
+das
+da
+sd
+s
+das
+das
+ds
+ad
+a
+da
+da
+da
+sd
+as
+d
+d
+
+s
+dsa
+d
+asd
+asd
+a
