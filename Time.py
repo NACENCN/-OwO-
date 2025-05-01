@@ -11,15 +11,4 @@ while seconds:
     seconds -= 1
 
 print("Time's up!")
-
-add sdi
-sdshd
-\sd
-sd
-dsd
-dw
-dawdasd
-adadw
-adad
-dajdi
-ds 
+sdadasd
