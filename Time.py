@@ -11,11 +11,3 @@ while seconds:
     seconds -= 1
 
 print("Time's up!")
-sfghg
-
-jkjk
-jk
-kkuu
-kkoijio
-kijioion
-sda
