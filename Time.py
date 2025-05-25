@@ -11,3 +11,9 @@ while seconds:
     seconds -= 1
 
 print("Time's up!")
+sdsad
+dasd
+sdsd
+sd
+dsda
+sdwqdasdwq
