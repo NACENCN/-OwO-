@@ -13,16 +13,4 @@ while seconds:
 print("Time's up!")
 sdadasd
 sdasdasds
-sdasd
-sd
-sd
-sa
-da
 sda
-das
-dsddsdsd
-dsasdsda
-d
-asd
-asd
-a
