@@ -14,3 +14,23 @@ print("Time's up!")
 sdsad
 dasd
 
+dasdadsa
+dasd
+sd
+ds
+d
+sd
+as
+da
+d
+ad
+a
+d
+ad
+a
+da
+d
+a
+d
+ad
+adad
