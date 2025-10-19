@@ -12,10 +12,14 @@ while seconds:
 
 print("Time's up!")
 sdsad
-dasd
-
-dasdadsa
-dasd
-sd
-d
-sdsadasdasd
+dasl;,
+ljkl
+lk
+jl
+jkl
+k
+l
+jkl
+j
+lj
+kl
