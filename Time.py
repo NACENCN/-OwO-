@@ -17,13 +17,5 @@ dasd
 dasdadsa
 dasd
 sd
-ds
 d
-3333333333333333333333
-2222222222222222222222dsdad
-1111aasdsasad
-dasd
-sda
-x
-sd
 sdsadasdasd
