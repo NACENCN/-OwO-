@@ -19,9 +19,3 @@ as
 das
 d
 asd
-as
-das
-d
-as
-da
-sdasd
