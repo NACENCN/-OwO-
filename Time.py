@@ -14,8 +14,5 @@ print("Time's up!")
 sdsad
 dasl;,sdasdadad
 sdasdasdad
-asdadasd
-as
-das
-d
-asd
+sdasdas
+sdasd
