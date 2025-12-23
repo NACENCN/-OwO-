@@ -16,20 +16,6 @@ dasl;,sdasdadad
 sadasdasd
 sd
 s
-s
-s
-s
-s
-s
-s
-
-s
-
-s
-s
-s
-s
-s
 
 s
 s
