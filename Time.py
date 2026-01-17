@@ -22,14 +22,4 @@ s
 s
 
 s
-s
-s
-s
-ss
-
-s
-s
-ss
-s
-s
-ss
+撒大苏打
