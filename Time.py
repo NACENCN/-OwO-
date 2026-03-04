@@ -11,11 +11,3 @@ while seconds:
     seconds -= 1
 
 print("Time's up!")
-sdsad
-dasl;,sdasda
-sd
-s
-dd
-sdsd
-
-ss
